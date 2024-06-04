@@ -24,6 +24,6 @@ jobs:
           context: .
           push: true
           tags: |
-            soepaza/api-nba:v1
-            soepaza/api-nba:latest
+            soepazaone/api-nba:v1
+            soepazaone/api-nba:latest
       
