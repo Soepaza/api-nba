@@ -16,7 +16,7 @@ resultados_nba = [
 @app.route('/v1/resultados_nba', methods=['GET'])
 def get_resultados_nba():
     return jsonify(resultados_nba)
-
+#teste
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
